@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">30 Days of Mindfulness</string>
+    <string name="day1_title">Breathe Easy</string>
+    <string name="day1_text">Take 5 minutes to focus on your breath. Inhale for 4 seconds, hold for 4, exhale for 4. Repeat. Notice how your body feels.</string>
+
+    <string name="day2_title">Body Scan</string>
+    <string name="day2_text">Sit or lie down. For 5 minutes, mentally scan your body from head to toe. Where do you feel tension? Where do you feel calm?</string>
+
+    <string name="day3_title">One Color</string>
+    <string name="day3_text">Pick a color. For 5 minutes, look around and notice every object with that color. Let your attention rest there.</string>
+
+    <string name="day4_title">Silent Minute</string>
+    <string name="day4_text">Set a timer for 1 minute. Close your eyes and listen to the quiet—or the sounds around you. What stands out?</string>
+
+    <string name="day5_title">Gratitude Moment</string>
+    <string name="day5_text">Write down 3 things you’re grateful for today. They can be big or small—like a warm cup of coffee or a kind word.</string>
+
+    <string name="day6_title">Sip Slowly</string>
+    <string name="day6_text">Take a drink (water, tea, anything). Sip it slowly over 2 minutes. Notice the taste, temperature, and sensation.</string>
+
+    <string name="day7_title">Stretch and Breathe</string>
+    <string name="day7_text">Stand up. Reach your arms high and take 5 deep breaths. Feel the stretch in your body as you inhale and exhale.</string>
+
+    <string name="day8_title">Memory Lane</string>
+    <string name="day8_text">Think of a happy moment from your past. Spend 5 minutes replaying it in your mind—what did you see, hear, feel?</string>
+
+    <string name="day9_title">Hands at Rest</string>
+    <string name="day9_text">Place your hands on your lap or a table. For 3 minutes, focus on how they feel—warm, cool, heavy, light?</string>
+
+    <string name="day10_title">Soundscape</string>
+    <string name="day10_text">Close your eyes for 5 minutes. Listen to the sounds around you—near and far. Let them come and go without judgment.</string>
+
+    <string name="day11_title">Kindness Note</string>
+    <string name="day11_text">Write a short, kind message to someone (even if you don’t send it). How does it feel to put positivity into words?</string>
+
+    <string name="day12_title">Cloud Watch</string>
+    <string name="day12_text">Look at the sky (or imagine it). For 5 minutes, watch the clouds move—or picture them drifting in your mind.</string>
+
+    <string name="day13_title">Heartbeat</string>
+    <string name="day13_text">Place a hand on your chest. Feel your heartbeat for 2 minutes. Sync your breathing to its rhythm.</string>
+
+    <string name="day14_title">Texture Touch</string>
+    <string name="day14_text">Pick an object—a fabric, a stone, anything. Run your fingers over it for 3 minutes. What do you notice?</string>
+
+    <string name="day15_title">Nature’s Pulse</string>
+    <string name="day15_text">Step outside (or imagine a natural place). Listen for 5 minutes—what do you hear? Birds? Wind? Let the sounds anchor you.</string>
+
+    <string name="day16_title">Eyes Closed</string>
+    <string name="day16_text">Close your eyes for 5 minutes. Picture a peaceful place—real or imagined. What details come to mind?</string>
+
+    <string name="day17_title">Single Bite</string>
+    <string name="day17_text">Eat one bite of food slowly. Chew for at least 20 seconds. Notice every flavor and texture.</string>
+
+    <string name="day18_title">Let It Go</string>
+    <string name="day18_text">Think of something small bothering you. For 3 minutes, imagine it floating away like a balloon.</string>
+
+    <string name="day19_title">Mirror Moment</string>
+    <string name="day19_text">Look in a mirror for 2 minutes. Smile at yourself. What do you see in your eyes?</string>
+
+    <string name="day20_title">Counting Breaths</string>
+    <string name="day20_text">Breathe deeply and count each exhale up to 10, then start over. Do this for 5 minutes. Where does your mind wander?</string>
+
+    <string name="day21_title">Warmth Check</string>
+    <string name="day21_text">Find something warm (a mug, your hands). Hold it for 3 minutes and focus on the heat spreading.</string>
+
+    <string name="day22_title">Step by Step</string>
+    <string name="day22_text">Walk slowly for 5 minutes. Feel each step—your feet lifting, landing, shifting. Be present with the motion.</string>
+
+    <string name="day23_title">Open Window</string>
+    <string name="day23_text">Open a window (or imagine it). Breathe the air for 5 minutes. Is it cool? Crisp? What does it carry?</string>
+
+    <string name="day24_title">Gentle Sway</string>
+    <string name="day24_text">Stand and sway side to side for 3 minutes. Match your breath to the rhythm. Feel grounded yet light.</string>
+
+    <string name="day25_title">Five Senses</string>
+    <string name="day25_text">Pause for 5 minutes. Name 5 things you see, 4 you hear, 3 you feel, 2 you smell, 1 you taste.</string>
+
+    <string name="day26_title">Candle Gaze</string>
+    <string name="day26_text">Light a candle (or picture one). Stare at the flame for 3 minutes. Watch it flicker and dance.</string>
+
+    <string name="day27_title">Thank Yourself</string>
+    <string name="day27_text">Write or think: ‘Thank you, [your name], for ___.’ Fill in the blank with something you’ve done this week.</string>
+
+    <string name="day28_title">Thought Flow</string>
+    <string name="day28_text">Sit still for 5 minutes. Notice your thoughts without chasing them. Let them pass like cars on a road.</string>
+
+    <string name="day29_title">Self Embrace</string>
+    <string name="day29_text">Hug yourself or a pillow for 2 minutes. Feel the pressure and warmth. What does it bring up?</string>
+
+    <string name="day30_title">Pause and Reflect</string>
+    <string name="day30_text">Look back on the last 30 days. What’s changed? Take 10 minutes to sit quietly and feel proud of your journey.</string>
+</resources>
