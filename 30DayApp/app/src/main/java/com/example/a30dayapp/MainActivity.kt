@@ -5,11 +5,9 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.animation.AnimatedContent
-import androidx.compose.animation.Crossfade
 import androidx.compose.animation.core.tween
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
-import androidx.compose.animation.scaleIn
 import androidx.compose.animation.slideInHorizontally
 import androidx.compose.animation.slideOutHorizontally
 import androidx.compose.animation.togetherWith
@@ -53,7 +51,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.em
 import com.example.a30dayapp.model.Day
-import com.example.a30dayapp.model.days
+import com.example.a30dayapp.model.DayInfo.days
 import com.example.a30dayapp.ui.theme.ThirtyDayAppTheme
 
 class MainActivity : ComponentActivity() {
@@ -147,8 +145,8 @@ fun MindfullnessApp(modifier: Modifier = Modifier){
         Spacer(modifier = Modifier.height(30.dp))
         Icons(
             currentIndex = currentIndex,
-            onIndexChange = { newIndex -> currentIndex = newIndex },
-            maxIndex = days.size - 1)
+            onIndexChange = { newIndex -> currentIndex = newIndex }
+        )
         Spacer(modifier = Modifier.weight(1f))
     }
 }
@@ -189,7 +187,6 @@ fun Icons(
     modifier: Modifier = Modifier,
     currentIndex: Int,
     onIndexChange: (Int) -> Unit,
-    maxIndex: Int
 ){
     Row(
         modifier = Modifier
@@ -211,7 +208,7 @@ fun Icons(
             onClick = {
                 if(currentIndex < 30) onIndexChange(currentIndex + 1)
             },
-            enabled = currentIndex < maxIndex,
+            enabled = currentIndex < days.size,
             modifier = Modifier
         ) {
             Icon(
