@@ -86,10 +86,3 @@ fun HeroCard(
     }
 }
 
-@Preview(showBackground = true)
-@Composable
-fun HeroPreview() {
-    SuperheroesTheme {
-        HeroesScreen(modifier = Modifier.fillMaxSize())
-    }
-}
